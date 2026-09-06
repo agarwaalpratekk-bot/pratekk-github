@@ -27,6 +27,8 @@ he tunes, not a static tracker — he asked for it twice; it is a hard requireme
 ## Log
 | Date | His answer | Adjustment applied next run |
 |---|---|---|
+| 2026-09-06 | (EOD tracker reply) "Check for Saturday as well and make the report cut-off by next day 8am." | EOD check retuned: **Saturday now a reporting day**; **08:00-next-day cut-off** enforced; time 08:30→**08:00**; cadence Tue–Sat→**Tue–Sun** (`30 2 * * 0,2-6`). Corrected 1–5 Sep report re-sent. |
+| 2026-09-06 | "send me a list at 8:30am of who hasn't sent their EOD report" + "everybody sends from their own email ID." | Added EOD-check routine keyed on each person's own sender address. |
 | 2026-09-06 | "set up the routines… just start sending emails to him tomorrow onwards" — kickoff daily brief sent live to his inbox; durable daily + weekly routines enabled. | Draft → **send-to-self**; schedule turned on (first scheduled daily Mon 7 Sep). |
 | 2026-09-03 | _(superseded by first live send)_ | — |
 
