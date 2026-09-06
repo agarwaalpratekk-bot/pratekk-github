@@ -39,6 +39,20 @@ UTC when the scheduler is UTC-based (07:30 IST = 02:00 UTC; 16:30 IST = 11:00 UT
    fact-check checklist first.
 5. Write `outputs/weekly/{date}-weekly-brief.md`; **send** to his own inbox; end with feedback ask.
 
+## Each EOD-check run — steps (08:30 IST, Tue–Sat)
+A tiny standalone email: **who on the team hasn't sent yesterday's EOD.** All three send
+their own daily EOD to Pratekk in the evening/overnight IST (sends can land past midnight),
+so the 08:30 check covers the **previous working day**.
+- Senders + subject patterns: **Neeti** `Neeti.B@growthcap.vc` ("EOD - {date}" / "{date} -
+  EOD"); **Shruti** `Shruti.Inani@growthcap.vc` ("Eod {date}"); **Smridh** `Smridh.K@growthcap.vc`
+  (replies on an "EOD Report" thread, date in the body).
+- Per person, search Inbox by **sender + afterDateTime "yesterday"** (date-filtered, not a
+  free-text query). Present = sent; absent = missing.
+- Send one short email to Pratekk only: who's missing (+ who's in), or "all 3 in ✅".
+- Runs **Tue–Sat** (covers Mon–Fri EODs). Sunday/Monday skipped by design — no EOD expected
+  the prior day. If the team also does Saturday EODs and he wants them flagged, add a Sun/Mon
+  run. Never nag the team; the email goes to Pratekk only.
+
 ## Standing constraints
 - **No auto-send to third parties.** Briefs and the investor draft go to Pratekk's own
   inbox only; he decides what leaves for LPs/counterparties.
@@ -55,6 +69,7 @@ chat and tune the next run:
 | Routine | Trigger ID | Cron (UTC) | Local (IST) | First run |
 |---|---|---|---|---|
 | Daily brief | `trig_015yCqQbMhHCzcXiesqAtTV9` | `0 2 * * 1-6` | ~07:30 Mon–Sat | Mon 7 Sep |
+| EOD check | `trig_015WyFVk2SQishViCNQNeaMw` | `0 3 * * 2-6` | ~08:30 Tue–Sat | Tue 8 Sep |
 | Weekly brief | `trig_01MnpyZUJ2PMLocevfCfew7f` | `0 11 * * 5` | ~16:30 Fri | Fri 11 Sep |
 
 - **Delivery: send-to-self** (not draft). Sunday is intentionally muted; adjust via feedback.
