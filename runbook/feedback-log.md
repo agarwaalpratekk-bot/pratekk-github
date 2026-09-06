@@ -19,12 +19,16 @@ he tunes, not a static tracker — he asked for it twice; it is a hard requireme
 - **Delivery:** draft vs send; time of day.
 
 ## Current active adjustments
-_(none yet — first run is 2026-09-03; awaiting his first answer)_
+- **Delivery flipped to send-to-self** (was draft) on his instruction 2026-09-06 — the
+  briefs now land directly in his inbox, no draft step.
+- **Cadence live:** daily Mon–Sat ~07:30 IST, weekly Fri ~16:30 IST. Sunday muted.
+- Nothing tuned on content yet — awaiting his first answer.
 
 ## Log
 | Date | His answer | Adjustment applied next run |
 |---|---|---|
-| 2026-09-03 | _(awaiting)_ | — |
+| 2026-09-06 | "set up the routines… just start sending emails to him tomorrow onwards" — kickoff daily brief sent live to his inbox; durable daily + weekly routines enabled. | Draft → **send-to-self**; schedule turned on (first scheduled daily Mon 7 Sep). |
+| 2026-09-03 | _(superseded by first live send)_ | — |
 
 ## Health metric (tie back to his goal)
 Track, monthly, a rough proxy for "**~30% less time on operational noise**":

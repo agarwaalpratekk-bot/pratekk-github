@@ -35,7 +35,7 @@ below was checked against the real inbox today, not assumed from the handoff doc
 | System | What it does | Status | WhatsApp-blocked? |
 |---|---|---|---|
 | **1 — Regulatory safety net** | Catches hard-deadline regulatory/compliance mail before it's missed | **Shippable now.** First sweep re-run & extended live. | No |
-| **Daily + weekly routine** | 7:30am daily brief + Friday weekly, each ending in a feedback ask | **Built.** First daily brief generated from live data → `outputs/daily/2026-09-03-daily-brief.md` | No (daily); partial (weekly funnel) |
+| **Daily + weekly routine** | 7:30am daily brief + Friday weekly, each ending in a feedback ask | **LIVE & sending.** Kickoff brief sent to his inbox 2026-09-06; durable routines on (daily Mon–Sat 07:30 IST, weekly Fri 16:30 IST) — see `runbook/agent-instructions.md`. | No (daily); partial (weekly funnel) |
 | **2 — Deal pipeline ledger** | Rollup of calls / deal notes / follow-up state across Neeti, Shruti, Smridh | **Partial.** Email shows the formal residue (EOD reports, MoMs, intros). Substance lives on WhatsApp. | **Yes — structurally incomplete until WhatsApp lands** |
 | **3 — Investor update engine** | LP/prospect updates in his voice for the Fund II raise | **Template reverse-engineered** from the Q1 FY27 quarterly update. Draft engine in `templates/investor-update.md`. | Partly (portfolio substance) |
 
@@ -58,8 +58,9 @@ below was checked against the real inbox today, not assumed from the handoff doc
   ever reply?) sharpens once wired — see `docs/01-system-design.md`.
 
 ## Guardrails (v1)
-- **Flag only. No auto-send to third parties.** The routine drafts; Pratekk sends.
-- Briefs are delivered to **his own inbox** for him to read — the only "send" in v1.
+- **Flag only. No auto-send to third parties.** The routine sends briefs to Pratekk;
+  anything outbound to LPs/counterparties (e.g. the investor draft) is his to send.
+- Briefs are delivered to **his own inbox** — the only "send" in v1 is self-send.
 - Every recurring email ends with a **one-tap feedback ask**, and the routine is tuned
   from the answers (`runbook/feedback-log.md`). This is a hard requirement, not optional.
 

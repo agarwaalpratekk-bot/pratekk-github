@@ -26,8 +26,9 @@ UTC when the scheduler is UTC-based (07:30 IST = 02:00 UTC; 16:30 IST = 11:00 UT
    page. Every item: owner + clock.
 6. **Apply feedback:** read `runbook/feedback-log.md` and adjust length/content/emphasis per
    his latest answers before finalising.
-7. **Deliver:** create the brief as a **draft** to `pratekk@growthcap.vc` (v1). Once he says
-   "just send it", switch to send. Never send to third parties.
+7. **Deliver:** **send** the brief to `pratekk@growthcap.vc` via `outlook_send_mail`
+   (bodyType `html`). He said "just start sending" on 2026-09-06, so v1 is now send-to-self,
+   not draft. **Never send to third parties** — only to his own inbox.
 8. **End with the feedback ask.** Non-negotiable.
 
 ## Each Friday run — steps
@@ -36,19 +37,30 @@ UTC when the scheduler is UTC-based (07:30 IST = 02:00 UTC; 16:30 IST = 11:00 UT
    email-observable floors; state the WhatsApp caveat.
 4. **Investor-update draft** via `templates/investor-update.md` — run the portfolio
    fact-check checklist first.
-5. Write `outputs/weekly/{date}-weekly-brief.md`; deliver as draft; end with feedback ask.
+5. Write `outputs/weekly/{date}-weekly-brief.md`; **send** to his own inbox; end with feedback ask.
 
 ## Standing constraints
-- **No auto-send to third parties.** Draft only; briefs go to Pratekk's own inbox.
+- **No auto-send to third parties.** Briefs and the investor draft go to Pratekk's own
+  inbox only; he decides what leaves for LPs/counterparties.
 - **Confirm before big mailbox pulls** (e.g. the 12-month voice read) — don't silently max.
 - **Flag WhatsApp-dependent gaps inline** rather than presenting partial data as complete.
 - **Feedback loop is mandatory** every run.
 
-## Turning it on (durable schedule) — pending Pratekk's OK
-Do **not** enable auto-generation silently. Once he approves:
-- Create two durable scheduled triggers (Claude Code routine) that each fire a fresh
-  session with the prompt: *"Run the GrowthCap daily/weekly brief per
-  `runbook/agent-instructions.md`; read Outlook live; write the dated output; create the
-  brief as a draft to pratekk@growthcap.vc; end with the feedback ask."*
-- Daily `0 2 * * *` UTC (07:30 IST) and Friday `0 11 * * 5` UTC (16:30 IST).
-- First 1–2 weeks: **draft-only**, so he audits before we flip to auto-send-to-self.
+## Turning it on (durable schedule) — LIVE as of 2026-09-06
+Enabled on Pratekk's OK ("set up the routines... just start sending emails to him tomorrow
+onwards"). Two durable Claude Code routines (scheduled triggers), **bound to the build
+session** (`session_01Keys2UxBH3k46qWmWkXHtN`) so his feedback replies land in the same
+chat and tune the next run:
+
+| Routine | Trigger ID | Cron (UTC) | Local (IST) | First run |
+|---|---|---|---|---|
+| Daily brief | `trig_015yCqQbMhHCzcXiesqAtTV9` | `0 2 * * 1-6` | ~07:30 Mon–Sat | Mon 7 Sep |
+| Weekly brief | `trig_01MnpyZUJ2PMLocevfCfew7f` | `0 11 * * 5` | ~16:30 Fri | Fri 11 Sep |
+
+- **Delivery: send-to-self** (not draft). Sunday is intentionally muted; adjust via feedback.
+- **Watch on first live fire (Mon 7 Sep):** the triggers stored no MCP connectors. Because
+  they resume *this* session in the same environment that already has Outlook connected,
+  the Microsoft 365 tools should reconnect on resume (as they did during the build). If a
+  fired run reports no `mcp__Microsoft_365__*` tools, recreate the routines from the
+  claude.ai Routines UI (which can attach the connector), keeping the same prompts.
+- Managed with `mcp__Claude_Code_Remote__list_triggers` / `update_trigger` / `delete_trigger`.
