@@ -50,7 +50,13 @@ evening/overnight IST (sends can land past midnight).
   (replies on an "EOD Report" thread, date in the body).
 - Per person, search Inbox by **sender + afterDateTime "yesterday"** (date-filtered, not a
   free-text query). Received before 08:00 IST today = on time; else missing.
-- Send one short email to Pratekk only: who's missing (+ who's in), or "all 3 in ✅".
+- **Leave-aware (added 16 Sep):** individual leaves are announced by email — a teammate
+  sends a "Leave request - {date}" / "on leave today" note (seen: Neeti → `info@tbrone.in`
+  cc Pratekk). If the person being checked emailed a leave notice covering that day, they are
+  **on leave, not missing** — say so explicitly, don't flag a gap. Also treat a day on the
+  office holiday calendar (`office@growthcap.vc` "Holiday - X") as non-reporting once Pratekk
+  confirms; until then, flag-with-context.
+- Send one short email to Pratekk only: who's missing (+ who's in / on leave), or "all 3 in ✅".
 - Runs **Tue–Sun** at 08:00 (covers **Mon–Sat** EODs). Monday skipped — it would cover
   Sunday, which is not a reporting day. Never nag the team; the email goes to Pratekk only.
 
