@@ -60,6 +60,23 @@ evening/overnight IST (sends can land past midnight).
 - Runs **Tue–Sun** at 08:00 (covers **Mon–Sat** EODs). Monday skipped — it would cover
   Sunday, which is not a reporting day. Never nag the team; the email goes to Pratekk only.
 
+## Open-loops audit — steps (on-demand sweep)
+A periodic "what's slipping" sweep of Inbox + Junk + Sent over the last ~2–3 weeks, grouped
+into: (1) startup pitches received, not responded to; (2) other personal emails awaiting his
+reply; (3) delegations he made that aren't close-looped; (4) team to-dos with no action.
+- **Open-loop rule (corrected 21 Sep):** an item is an open loop when **there is no sent
+  reply in the thread** — *independent of read state*. **Read ≠ responded.** The read flag
+  only downgrades *urgency* (he's at least seen it); it never closes the loop. The earlier
+  audit (20 Sep) keyed "pending" on *unread + no reply* and so dropped read-but-unanswered
+  threads (e.g. the **Agrify / Prateek Garg** pitch — read 16 Sep, founder chased 21 Sep, no
+  reply). Never gate the audit on unread again.
+- **Reply detection:** confirm "no reply" by checking Sent for a message in the same
+  conversation / to the sender (recipient filter runs without `folderName`), not by read
+  status. A pitch a *teammate* is actively handling (e.g. Neeti/Smridh coordinating a slot)
+  is *their* loop, not his — say so rather than listing it as his miss.
+- Tag every row with days-pending (to today) and a confidence note; keep the WhatsApp/call
+  caveat (email-observable only).
+
 ## Standing constraints
 - **No auto-send to third parties.** Briefs and the investor draft go to Pratekk's own
   inbox only; he decides what leaves for LPs/counterparties.
