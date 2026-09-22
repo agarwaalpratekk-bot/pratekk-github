@@ -60,6 +60,16 @@ evening/overnight IST (sends can land past midnight).
 - Runs **Tue–Sun** at 08:00 (covers **Mon–Sat** EODs). Monday skipped — it would cover
   Sunday, which is not a reporting day. Never nag the team; the email goes to Pratekk only.
 
+## Pitch tracker — keep it live (every daily run)
+`runbook/pitch-tracker.md` holds pitches allocated to Neeti & Smridh (22 Sep), each to be
+driven to **response closure**. Two allocation emails (subject "Pitches to own & close-loop")
+cc Pratekk, so analyst status replies land in his inbox on one thread per analyst.
+- Each daily run: read those two threads (search `conversationId` / subject). For each row,
+  if the analyst replied since allocation, update **Status** + **Last update** in the tracker.
+- Any row still `allocated` (no analyst reply) past the asked-for date → surface it in the
+  daily brief under **⏳ Delegated & gone quiet** with a days-pending clock.
+- When all rows for an analyst are closed (in diligence / passed), note it and stop chasing.
+
 ## Open-loops audit — steps (on-demand sweep)
 A periodic "what's slipping" sweep of Inbox + Junk + Sent over the last ~2–3 weeks, grouped
 into: (1) startup pitches received, not responded to; (2) other personal emails awaiting his
