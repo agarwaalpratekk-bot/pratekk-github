@@ -37,7 +37,16 @@ if clean, add the reassurance line.}
 ```
 
 ## Rules
-- **Half a page max.** If it's longer, cut the lowest-confidence "quiet" items first.
+- **One task = one line.** Never merge several distinct items into a single bullet. Each
+  loop/deadline is its own line so it can be tracked and closed individually. (If space is
+  tight, drop the lowest-priority items — don't concatenate them.)
+- **Section = category, strictly.** Put each item in the one section that fits and nowhere
+  else. **📅 Regulatory/compliance is for statutory/regulator items ONLY** (SEBI/RBI/ROC
+  filings, audit, KYC, benchmarking, ODI, tax) — **deal, LP/fundraise, delegation, vendor and
+  ops tasks never go there**; they belong in Blocked / Delegated / Circling back. Regulatory
+  is not a catch-all.
+- **Half a page max.** If it's longer, cut the lowest-confidence "quiet" items first — by
+  dropping whole lines, never by combining them.
 - **Every item names an owner and a clock.** No ownerless, clockless lines.
 - **Read live every morning** — inbox + sent + junk + calendar. Never reuse yesterday's
   list without re-checking state.

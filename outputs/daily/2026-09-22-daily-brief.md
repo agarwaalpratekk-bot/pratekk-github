@@ -1,41 +1,33 @@
 # Daily Brief — Tuesday, 22 September 2026
 
 *Your loops, your clocks, this week's deadlines. ~2-min read. (You fly to Amsterdam tomorrow.)*
+*Restructured per your note: one task per line; Regulatory holds compliance items only.*
 
 ---
 
 ### 🛑 Blocked on you
-1. **RSU agreements — your sign-off to execute.** ANP (Zalak) sent the **duly-filled RSU
-   Agreements for 6 of the 7 donees** "for your perusal and necessary action" (21 Sep). Your
-   go-ahead executes them; the 7th (Jay Ahya) still owes his full address. *(new, on your desk)*
-2. **FTD Innovations — your green light to counsel.** Unchanged since the weekend: Neeti
-   confirms the redline **"cannot be signed as-is"** and **lawyers still aren't engaged**. The
-   deal closest to done, still waiting on your go-ahead to send it to counsel. *(day 4, hot)*
-3. **Amsterdam — you leave tomorrow (23–26 Sep).** TiECon Thu 24. **Preqin/BlackRock is back
-   ON today 13:30** (rebooked as "Profile Update" after the cancel). Your outreach is live
-   (Vikas favour, Anmol pre/post-TiEcon). Confirm the **deck is final** and **Shruti's first-8
-   LP send has actually left** before you land. *(fundraise-urgent)*
+1. **RSU agreements — sign off to execute.** ANP (Zalak) sent the filled agreements for **6 of 7 donees** "for your necessary action" (21 Sep). Your go-ahead executes them. *(new)*
+2. **FTD term sheet — green-light to counsel.** Neeti: "cannot be signed as-is," lawyers still not engaged. Your go-ahead is the only unblock. *(day 4, hot)*
+3. **Fund II deck — final sign-off before you fly.** Gates the Amsterdam LP send. *(fundraise-urgent)*
+4. **Confirm Shruti's first-8 LP outreach has actually left.** Ahead of TiECon Thu 24. *(fundraise-urgent)*
 
 ### ⏳ Delegated & gone quiet
-- **Sypha — your ANP-fee confirmation.** Shawn replied 21 Sep: JMP is drafting the common term
-  sheet for all investors; your fee call to ANP is the open piece. **IDFC WC/OD** — still on
-  you/Neeti (below). **Deepterrain** — Smridh still to lock the Thu/Fri slot. **Reput** — Smridh
-  sent the post-round cap table to Anuj for the IC note; awaiting his sign-off. *(all warm)*
+- **Sypha — your ANP-fee confirmation.** Shawn replied 21 Sep; JMP drafting the common term sheet. *(1 d)*
+- **Deepterrain — Smridh to lock the Thu/Fri slot.** Founder asked 20 Sep. *(2 d)*
+- **Reput — Anuj to confirm the post-round cap table.** Smridh sent it 21 Sep; gates the IC note. *(1 d)*
 
 ### 📬 Circling back to you
-- **IDFC — Shikha Pandey (RM), case #06585959.** Ball's with you/Neeti: send the IM financials
-  + fund-cashflow workings to move the WC/OD line. *(2 d)*
-- **Read but not answered** *(the corrected sweep now catches these)*: **64codon** — Dr Shaji
-  (met at Pivot Kochi) asks *"how do we take it forward?"*; **ParkoBot** — Amrit bubbling his
-  note back up. Both personal, seen, no reply yet — reply or route. *(your call)*
-- **Agrify / Prateek Garg** pass still pending (6 d); audit pitch backlog unchanged. *(low)*
+- **IDFC — Shikha Pandey (RM), case #06585959.** Waiting on you/Neeti for the IM financials + fund-cashflow workings. *(2 d)*
+- **64codon — Dr Shaji** (met at Pivot Kochi): "how do we take it forward?" Read, no reply. *(1 d)*
+- **ParkoBot — Amrit** re-pinged his note. Read, no reply. *(bubbling)*
+- **Agrify — Prateek Garg.** Pass decision still pending. *(6 d)*
 
-### 📅 Regulatory / compliance this week
-- ⚠️ **SEBI Reg-22 Annual Report (FY25-26) — due Fri 27 Sep** (5 days; Neeti drafting). The hard clock.
-- **Crisil AIF benchmarking** still unowned (~day 18) — name an owner. **FY26 audit** — Neeti
-  chasing Stockholding on the Advance Mobility physical-share demat (21 Sep). **ODI** pending with banks.
-- *Junk scanned — clean of regulatory risk today* (crypto-treasury "Basylic", GPU/data-centre
-  cold pitch, Gen-Z shopping, recruiting spam — nothing SEBI/reg misfiled).
+### 📅 Regulatory / compliance
+- ⚠️ **SEBI Reg-22 Annual Report (FY25-26) — due Fri 27 Sep.** The only hard clock this week. Owner: Neeti (drafting). *(5 d)*
+- **Crisil AIF benchmarking — still UNOWNED (~day 18).** SEBI-mandated; needs you to name an owner. *(no hard date, but slipping)*
+- **ODI reporting — pending with banks.** Owner: Neeti / TBR. *(no hard date)*
+- **FY26 audit — in progress.** Neeti chasing Stockholding on the Advance Mobility physical-share demat (21 Sep). *(ongoing)*
+- *Junk swept — clean of regulatory risk today* (crypto-treasury, GPU/data-centre pitch, recruiting spam — nothing SEBI/reg misfiled).
 
 ---
 
@@ -44,5 +36,4 @@
 *Your answer tunes tomorrow's brief.*
 
 ---
-<sub>Read live from your Outlook this morning (inbox + sent + junk + calendar). Today: Navanc
-11:15 · Reput 11:30 · Preqin/BlackRock 13:30 · Blue Ashva 17:00. Amsterdam 23–26 Sep (TiECon Thu 24).</sub>
+<sub>Read live from your Outlook this morning (inbox + sent + junk + calendar). Today: Navanc 11:15 · Reput 11:30 · Preqin/BlackRock 13:30 · Blue Ashva 17:00. Amsterdam 23–26 Sep (TiECon Thu 24).</sub>
