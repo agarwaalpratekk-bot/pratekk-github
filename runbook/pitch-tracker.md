@@ -8,16 +8,16 @@ brief reads those threads and updates **Status** + **Last update** below.
 **Status legend:** `allocated` → `contacted` → `call set` → `in diligence` / `passed` (closed).
 Closure = a clear outcome (in diligence or passed), not just "seen."
 
-## Neeti (Neeti.B@growthcap.vc) — 7
+## Neeti (Neeti.B@growthcap.vc) — 7  *(replied 23 Sep 07:43)*
 | # | Pitch | Sector / ask | Allocation action | Status | Last update |
 |---|---|---|---|---|---|
-| 1 | Acquafront Infrastructure (Anukul, BrightBridge) | Infra · ₹60 Cr pre | Pin valuation/equity or pass (quiet ~15 d) | allocated | 22 Sep |
-| 2 | MacHanas (Harshit) | AI procurement for MSMEs · ₹12 Cr | Lock call + revert with view | allocated | 22 Sep |
-| 3 | SlagExcel (Samarth, Samsaara) | Sustainable building materials | Take call + revert / pass | allocated | 22 Sep |
-| 4 | Seamless/Artemis + Techtronics + Vendor Infra (ExcessEdge) | US$1M seed + 2 more | Clean pass/next on all three | allocated | 22 Sep |
-| 5 | ETFly (Preet Parekh) | Fintech · India ETF platform | Screen + revert | allocated | 22 Sep |
-| 6 | QuantArena (Niloy Ray) | Financial-intelligence | Screen + revert / pass | allocated | 22 Sep |
-| 7 | Agrify (Prateek Garg) | Agri marketplace · ₹25 Cr | Warm pass (off-thesis) | allocated | 22 Sep |
+| 1 | Acquafront Infrastructure (Anukul, BrightBridge) | Infra · ₹60 Cr pre | Pin valuation/equity or pass (quiet ~15 d) | ✅ closed — looped with founders | 23 Sep |
+| 2 | MacHanas (Harshit) | AI procurement for MSMEs · ₹12 Cr | Lock call + revert with view | passing — call held 21 Sep, pass email scheduled | 23 Sep |
+| 3 | SlagExcel (Samarth, Samsaara) | Sustainable building materials | Take call + revert / pass | ⛔ back on Pratekk — "needs to be discussed with you" | 23 Sep |
+| 4 | Seamless/Artemis + Techtronics + Vendor Infra (ExcessEdge) | US$1M seed + 2 more | Clean pass/next on all three | ✅ closed — passed via IB | 23 Sep |
+| 5 | ETFly (Preet Parekh) | Fintech · India ETF platform | Screen + revert | ⚠️ not in Neeti's inbox — needs forwarding | 23 Sep |
+| 6 | QuantArena (Niloy Ray) | Financial-intelligence | Screen + revert / pass | ⚠️ not in Neeti's inbox — needs forwarding | 23 Sep |
+| 7 | Agrify (Prateek Garg) | Agri marketplace · ₹25 Cr | Warm pass (off-thesis) | ⚠️ not in Neeti's inbox — needs forwarding | 23 Sep |
 
 ## Smridh (Smridh.K@growthcap.vc) — 7
 | # | Pitch | Sector / ask | Allocation action | Status | Last update |
