@@ -56,9 +56,15 @@ evening/overnight IST (sends can land past midnight).
   **on leave, not missing** — say so explicitly, don't flag a gap. Also treat a day on the
   office holiday calendar (`office@growthcap.vc` "Holiday - X") as non-reporting once Pratekk
   confirms; until then, flag-with-context.
-- Send one short email to Pratekk only: who's missing (+ who's in / on leave), or "all 3 in ✅".
+- Send one short summary email to Pratekk: who's missing (+ who's in / on leave), or "all 3 in ✅".
+- **Direct reminders (Pratekk, 1 Oct — reverses the earlier "never nag" rule):** for each
+  genuinely missing person, also send a separate short, warm reminder from Pratekk's account
+  **direct to that one person only** (never cc the team), signed "Pratekk", e.g. "Hi {first
+  name}, quick note - I didn't receive your end-of-day report for {date}. Could you send it
+  across when you get a moment? Thanks, Pratekk". No reminders when everyone is in; never nag
+  anyone on leave/holiday or whose EOD did arrive. Hyphens, not em dashes.
 - Runs **Tue–Sun** at 08:00 (covers **Mon–Sat** EODs). Monday skipped — it would cover
-  Sunday, which is not a reporting day. Never nag the team; the email goes to Pratekk only.
+  Sunday, which is not a reporting day.
 
 ## Pitch tracker — keep it live (every daily run)
 `runbook/pitch-tracker.md` holds pitches allocated to Neeti & Smridh (22 Sep), each to be
