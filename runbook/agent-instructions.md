@@ -70,11 +70,20 @@ evening/overnight IST (sends can land past midnight).
 `runbook/pitch-tracker.md` holds pitches allocated to Neeti & Smridh (22 Sep), each to be
 driven to **response closure**. Two allocation emails (subject "Pitches to own & close-loop")
 cc Pratekk, so analyst status replies land in his inbox on one thread per analyst.
-- Each daily run: read those two threads (search `conversationId` / subject). For each row,
-  if the analyst replied since allocation, update **Status** + **Last update** in the tracker.
-- Any row still `allocated` (no analyst reply) past the asked-for date → surface it in the
-  daily brief under **⏳ Delegated & gone quiet** with a days-pending clock.
-- When all rows for an analyst are closed (in diligence / passed), note it and stop chasing.
+- Each daily run: read those two threads (search `conversationId` / subject) **in full** — read
+  the analyst's actual reply text. NEVER infer "no response" from an unread flag or a truncated
+  Sent-items view (a 1 Oct mis-track happened exactly that way).
+- **Verify closure against ground truth, not the status line (Pratekk, 1 Oct).** Before marking
+  a deal closed or nudging, corroborate with:
+  (a) the **calendar** (`outlook_calendar_search`) — did they set up / hold the call with the
+      founder? That evidences `call set` / `call done`;
+  (b) the **founder-facing thread where Pratekk is on CC** — did the analyst actually revert to
+      the founder/startup (a real pass or next-step email)? That revert is what proves closure.
+  Treat the analyst's one-line status as a claim to confirm against (a)/(b), not as proof.
+- Only a row with **no analyst reply AND no founder-facing revert AND no meeting** is open →
+  surface under **⏳ Delegated & gone quiet** with a days-pending clock; nudge only that case.
+- When all rows for an analyst are closed (founder reverted / passed / in diligence / meeting
+  done), note it and stop chasing.
 
 ## Open-loops audit — steps (on-demand sweep)
 A periodic "what's slipping" sweep of Inbox + Junk + Sent over the last ~2–3 weeks, grouped
