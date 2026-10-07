@@ -40,7 +40,7 @@
 
 ### 📅 On the calendar
 - **Today:** Ziriz.ai at 11:00 ⚠️ clashes with IVCA–DPIIT (11:00–13:00). P3C ⟷ GCV at 16:00 (Smridh).
-- **Thu 8:** ResultLane at 11:00. Fexo at 11:30 (overlaps ResultLane by 0 min; back-to-back).
+- **Thu 8:** ResultLane at 11:00. Fexo at 11:30, straight after.
 - **Fri 9:** FTD in person at 11:00. Sense Alpha at 16:00.
 - **Sat 10** is a non-working Saturday, but Trusterra (11:00) and Integra (16:00) are still on the calendar.
 
