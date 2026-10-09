@@ -23,7 +23,7 @@ loops; see per-deal status below.
 ## Smridh (Smridh.K@growthcap.vc) — 7 · ✅ cleared (1 to your desk)  *(status 24 Sep; Flaunt reconfirmed 1 Oct)*
 | # | Pitch | Status | Detail |
 |---|---|---|---|
-| 1 | Okulo Aerospace | ⛔ your decision | call done (TRL 9); last-tranche entry into a closed round — needs your IC call |
+| 1 | Okulo Aerospace | ✅ passed | IC discussed; pass email sent by Smridh 8 Oct (Fund I nearly deployed) |
 | 2 | Deepterrain.ai (Alok Jain) | ✅ call done | fixed for Mon 28 Sep |
 | 3 | Flaunt (via Pratiti / Riddhi) | ✅ passed | clean pass 24 Sep; loop closed with Parithi/Dhruv Madaan (reconfirmed 1 Oct) |
 | 4 | ParkoBot / GoPark (Amrit) | ✅ passed | off-thesis, 25 Sep (was in junk) |
@@ -46,4 +46,7 @@ loops; see per-deal status below.
   analyst, cc Pratekk; never if they've already replied, once/day max, stand down on closed and
   on leave/holiday.
 - Surface only still-open rows in the brief under **⏳ Delegated & gone quiet**. Right now the
-  only live item is **Okulo → Pratekk's decision**; PolarPro is in evaluation.
+  only live item is PolarPro (evaluating). Okulo closed 8 Oct.
+
+## New batch — forwarded 8 Oct (to Neeti + Smridh, "Please review and take action")
+Swob · natural-sugar (Zaidwood) · Italian packaging target (Bering) · NimbleS2P (Capitalcorn) · Better Daily (Impactful) · PureWager. Day 0 on 8 Oct; nudge only if no analyst reply / founder revert by Mon 12 Oct.
