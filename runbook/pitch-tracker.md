@@ -50,3 +50,11 @@ loops; see per-deal status below.
 
 ## New batch — forwarded 8 Oct (to Neeti + Smridh, "Please review and take action")
 Swob · natural-sugar (Zaidwood) · Italian packaging target (Bering) · NimbleS2P (Capitalcorn) · Better Daily (Impactful) · PureWager. Day 0 on 8 Oct; nudge only if no analyst reply / founder revert by Mon 12 Oct.
+
+## Superseded 10–11 Oct — Pratekk's own close-out lists (deadline Wed 14 Oct)
+Pratekk re-delegated the whole backlog himself over the weekend, so the 8 Oct batch above is folded in (no separate nudge on Mon 12 Oct):
+- **10 Oct 23:38 IST** "Inbound pitches to close out – pls revert to founders this week" → Smridh + Shruti (cc Neeti): ~40 inbox pitches (Veltrix, VionixCosmic, Dcluttr, … Impactful Pitch batch). Close each (call / pass) by **Wed 14 Oct**; update tracker.
+- **10 Oct 23:04 IST** "Inbound pitches pending a reply" → Smridh + Shruti (cc Neeti): AiViva, Impactful/Better Daily, etc.
+- **11 Oct 08:12 IST** "…additional (over and above my 10 Oct list)" → Smridh + Shruti (cc Neeti): 16 more (oneNEEV, AiViva, 1Fi, P2B, Tovexa, Mutanex, KareReach, Meely, GROWiT, Buckx, Swastika, Gauge Ro, Finspring, KGen, Montdorex, Affine Machines).
+- **11 Oct 08:24 IST** "Inbound pitches (Junk folder) to close out" → Shruti only: Swob, Listifyi, Zaidwood (Jaca Sugar, Corespan), NimbleBiz, Capitalcorn (Buildd, NimbleS2P), Impactful series incl. Better Daily, and more.
+- **Rule:** no nudge before Wed 14 Oct. From Thu 15 Oct, nudge only lines with no analyst reply AND no founder revert AND no meeting.
